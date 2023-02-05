@@ -1,0 +1,15 @@
+C:\Users\AdilAnsari\OneDrive - Akumina\Personal\Learninig\Chapter1_PeriocidTimer\Chapter1_PeriocidTimer\bin\Debug\net6.0\Chapter1_PeriocidTimer.exe
+C:\Users\AdilAnsari\OneDrive - Akumina\Personal\Learninig\Chapter1_PeriocidTimer\Chapter1_PeriocidTimer\bin\Debug\net6.0\Chapter1_PeriocidTimer.deps.json
+C:\Users\AdilAnsari\OneDrive - Akumina\Personal\Learninig\Chapter1_PeriocidTimer\Chapter1_PeriocidTimer\bin\Debug\net6.0\Chapter1_PeriocidTimer.runtimeconfig.json
+C:\Users\AdilAnsari\OneDrive - Akumina\Personal\Learninig\Chapter1_PeriocidTimer\Chapter1_PeriocidTimer\bin\Debug\net6.0\Chapter1_PeriocidTimer.dll
+C:\Users\AdilAnsari\OneDrive - Akumina\Personal\Learninig\Chapter1_PeriocidTimer\Chapter1_PeriocidTimer\bin\Debug\net6.0\Chapter1_PeriocidTimer.pdb
+C:\Users\AdilAnsari\OneDrive - Akumina\Personal\Learninig\Chapter1_PeriocidTimer\Chapter1_PeriocidTimer\obj\Debug\net6.0\Chapter1_PeriocidTimer.csproj.AssemblyReference.cache
+C:\Users\AdilAnsari\OneDrive - Akumina\Personal\Learninig\Chapter1_PeriocidTimer\Chapter1_PeriocidTimer\obj\Debug\net6.0\Chapter1_PeriocidTimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdilAnsari\OneDrive - Akumina\Personal\Learninig\Chapter1_PeriocidTimer\Chapter1_PeriocidTimer\obj\Debug\net6.0\Chapter1_PeriocidTimer.AssemblyInfoInputs.cache
+C:\Users\AdilAnsari\OneDrive - Akumina\Personal\Learninig\Chapter1_PeriocidTimer\Chapter1_PeriocidTimer\obj\Debug\net6.0\Chapter1_PeriocidTimer.AssemblyInfo.cs
+C:\Users\AdilAnsari\OneDrive - Akumina\Personal\Learninig\Chapter1_PeriocidTimer\Chapter1_PeriocidTimer\obj\Debug\net6.0\Chapter1_PeriocidTimer.csproj.CoreCompileInputs.cache
+C:\Users\AdilAnsari\OneDrive - Akumina\Personal\Learninig\Chapter1_PeriocidTimer\Chapter1_PeriocidTimer\obj\Debug\net6.0\Chapter1_PeriocidTimer.dll
+C:\Users\AdilAnsari\OneDrive - Akumina\Personal\Learninig\Chapter1_PeriocidTimer\Chapter1_PeriocidTimer\obj\Debug\net6.0\refint\Chapter1_PeriocidTimer.dll
+C:\Users\AdilAnsari\OneDrive - Akumina\Personal\Learninig\Chapter1_PeriocidTimer\Chapter1_PeriocidTimer\obj\Debug\net6.0\Chapter1_PeriocidTimer.pdb
+C:\Users\AdilAnsari\OneDrive - Akumina\Personal\Learninig\Chapter1_PeriocidTimer\Chapter1_PeriocidTimer\obj\Debug\net6.0\Chapter1_PeriocidTimer.genruntimeconfig.cache
+C:\Users\AdilAnsari\OneDrive - Akumina\Personal\Learninig\Chapter1_PeriocidTimer\Chapter1_PeriocidTimer\obj\Debug\net6.0\ref\Chapter1_PeriocidTimer.dll
