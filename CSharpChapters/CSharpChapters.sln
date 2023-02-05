@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter1_PeriocidTimer", "Chapter1_PeriocidTimer\Chapter1_PeriocidTimer.csproj", "{2B71A21C-A3D1-4834-A0F2-7A72771DB304}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B71A21C-A3D1-4834-A0F2-7A72771DB304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B71A21C-A3D1-4834-A0F2-7A72771DB304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B71A21C-A3D1-4834-A0F2-7A72771DB304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B71A21C-A3D1-4834-A0F2-7A72771DB304}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6C8B14A-6C96-4822-B17A-6BCFD1C31D43}
+	EndGlobalSection
+EndGlobal
